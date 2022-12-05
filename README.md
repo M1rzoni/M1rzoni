@@ -1,3 +1,5 @@
+![logo](https://github.com/M1rzoni/M1rzoni/blob/main/banner.com.png)
+
 <h1 align="center">Hi 👋, I'm Mirza</h1>
 <h3 align="center">A passionate Software Engineer from Bosnia</h3>
 
