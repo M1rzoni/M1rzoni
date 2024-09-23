@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mirza</h1>
 <h3 align="center">Junior Web Developer </>👨‍💻</></h3>
-<img align="right" alt="Coding" width="400" src"https://miro.medium.com/v2/resize:fit:1400/0*IjwqslkWZDHTMK9Y.gif">
+<img align="right" alt="Coding" width="400" src"https://dribbble.com/shots/3019824-Dave-Coding">
 
 
 
