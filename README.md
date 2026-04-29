@@ -1,4 +1,4 @@
-[![](https://visitcountpro.netlify.app/api?id=MirzaSabanovic&pretty=true)](https://visitcount.itsvg.in)
+[![](https://netlify.app)](https://itsvg.in)
 
 # 🏄‍♂️ Junior Android & Full-Stack Developer
 
@@ -21,9 +21,11 @@ I also have experience using SQL databases like **MySQL**, **PostgreSQL**, and *
 <div>
   <h2>🔗 Connect With Me</h2>
   <a href="mailto:mirza.sabanovic@ipi-akademija.ba">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://shields.io" />
   </a>
 </div>
+
+<br/>
 
 ## 🐍 Snake Contribution
 <picture>
@@ -38,8 +40,8 @@ I also have experience using SQL databases like **MySQL**, **PostgreSQL**, and *
   <h2>🧰 Languages • Frameworks • Tools</h2>
 <br/>
 <div>
-<img src="https://skillicons.dev/icons?i=java,kotlin,flutter,androidstudio,angular,react,nextjs,html,css,tailwind,github,git,nestjs,postgres" />
+<img src="https://skillicons.dev" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mysql,firebase,docker,php,linux" />
+<img src="https://skillicons.dev" />
 </div>
 </div>
