@@ -37,18 +37,9 @@ I also have experience using SQL databases like **MySQL**, **PostgreSQL**, and *
 </div>
 </div>
 
-<hr/>
+![snake gif](https://github.com/M1rozni/M1rzoni/blob/output/github-contribution-grid-snake.gif)
 
-# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Mirza-Sabanovic&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirza-Sabanovic&theme=react&hide_border=false&layout=compact)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mirza-Sabanovic&theme=react&hide_border=false)
-
-<hr/>
-
-![snake gif](https://github.com/M1rzoni/M1rzoni/blob/output/github-contribution-grid-snake.gif
 
 
