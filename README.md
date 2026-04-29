@@ -49,9 +49,6 @@ I also have experience using SQL databases like **MySQL**, **PostgreSQL**, and *
 
 <hr/>
 
-# 🧑‍💻 My Contributions
-<img alt="snake-eating-my-contributions" src="https://raw.githubusercontent.com/Mirza-Sabanovic/Mirza-Sabanovic/output/github-contribution-grid-snake-dark.svg"/>
+![snake gif](https://github.com/M1rzoni/M1rzoni/blob/output/github-contribution-grid-snake.gif
 
-<br/>
 
-[![Mirza's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mirza-Sabanovic&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
