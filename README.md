@@ -37,7 +37,7 @@ I also have experience using SQL databases like **MySQL**, **PostgreSQL**, and *
 </div>
 </div>
 
-![Snake](https://githubusercontent.com)
+<img src="https://githubusercontent.com" />
 
 
 
