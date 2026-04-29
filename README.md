@@ -25,6 +25,13 @@ I also have experience using SQL databases like **MySQL**, **PostgreSQL**, and *
   </a>
 </div>
 
+## 🐍 Snake Contribution
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="github contribution grid snake animation" src="https://githubusercontent.com">
+</picture>
+
 <br/>
 
 <div>
@@ -36,13 +43,3 @@ I also have experience using SQL databases like **MySQL**, **PostgreSQL**, and *
 <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mysql,firebase,docker,php,linux" />
 </div>
 </div>
-
-![Snake](http://githubusercontent.com)
-
-
-
-
-
-
-
-
