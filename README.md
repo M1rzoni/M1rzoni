@@ -1,18 +1,17 @@
 [![](https://visitcountpro.netlify.app/api?id=MirzaSabanovic&pretty=true)](https://visitcount.itsvg.in)
 
-# 🏄‍♂️ Junior Android & Full-Stack Developer
+# 🏄‍♂️ Software Developer
 
-I'm an Android and Full-Stack developer from Bosnia and Herzegovina.  
-I work with Java, Kotlin, Flutter, Angular, Node.js and modern backend solutions.  
-I focus on building clean, intuitive, scalable applications — from mobile apps to full web platforms.
+I'm a **Full-Stack Developer** from Bosnia and Herzegovina. I focus on building clean, intuitive, and scalable applications — ranging from mobile apps to robust web platforms.
 
 <details>
   <summary><h3>👨‍💻 Read more</h3></summary>
-
-### Additional Details:
-I develop Android apps using **Java/Kotlin** and I also build cross-platform apps using **Flutter**.  
-On the web side, I work with **Angular**, **React**, **Next.js**, and backend technologies such as **Node.js**, **NestJS**, **Express.js**, and **PHP**.  
-I also have experience using SQL databases like **MySQL**, **PostgreSQL**, and **Firebase** for modern cloud-based applications.
+  ### Technical Skills:
+  *   **Mobile:** Native Android (Java/Kotlin) & Cross-platform (Flutter).
+  *   **Backend:** C#, Node.js, and modern backend solutions.
+  *   **Web:** Experience with Next.js and modern frontend tools.
+  *   **Databases:** SQL (MySQL, PostgreSQL) & Cloud solutions (Firebase, Supabase).
+</details>
 
 </details>
 
