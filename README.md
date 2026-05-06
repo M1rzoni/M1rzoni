@@ -37,8 +37,8 @@ I'm a **Full-Stack Developer** from Bosnia and Herzegovina. I focus on building 
   <h2>🧰 Languages • Frameworks • Tools</h2>
 <br/>
 <div>
-<img src="https://skillicons.dev/icons?i=java,kotlin,flutter,androidstudio,angular,react,nextjs,html,css,tailwind,github,git,nestjs,postgres" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,flutter,androidstudio,nextjs,html,css,tailwind,github,git,nestjs,postgres,supabase" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mysql,firebase,docker,php,linux" />
+<img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,c#,express,mysql,firebase,docker,php,linux" />
 </div>
 </div>
