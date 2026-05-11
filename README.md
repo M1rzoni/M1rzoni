@@ -26,9 +26,9 @@ I'm a **Full-Stack Developer** from Bosnia and Herzegovina. I focus on building 
 
 ## 🐍 Snake Contribution
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="github contribution grid snake animation" src="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
+  <img alt="github-snake" src="https://githubusercontent.com" />
 </picture>
 
 <br/>
