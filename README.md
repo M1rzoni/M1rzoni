@@ -30,8 +30,7 @@ I build clean, intuitive, and scalable applications across the full stack — fr
 
 <div>
   <h2>🔗 Connect With Me</h2>
-  <a href="mailto:mirza.sabanovic@ipi-akademija.ba">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <h3> sabanovicmirza52@gmail.com </h3>
   </a>
 </div>
 
@@ -39,15 +38,16 @@ I build clean, intuitive, and scalable applications across the full stack — fr
 <p align="center">
   <img src="https://raw.githubusercontent.com/M1rzoni/M1rzoni/refs/heads/output/github-snake.svg" alt="Snake animation" width="80%" />
 </p>
-
 <br/>
 
 <div>
   <h2>🧰 Languages • Frameworks • Tools</h2>
 <br/>
 <div>
-<img src="https://skillicons.dev/icons?i=java,kotlin,flutter,androidstudio,nextjs,html,css,tailwind,github,git,nestjs,postgres,supabase" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,flutter,androidstudio,vscode,github,git" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,c#,express,mysql,firebase,docker,php,linux" />
+<img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,c#,express,nextjs" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,sqlite" />
 </div>
 </div>
